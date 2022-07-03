@@ -2,4 +2,32 @@
 title: "About"
 ---
 
-About this site
+About me
+
+::: column-margin
+![](images/profile.jpg)
+:::
+
+My name is Trieu Le.
+I'm currently a master's student at KU Leuven.
+I'm passionate about...
+
+Recently, I've been learning R...
+
+```{r}
+a <- 1:4
+b <- 5:8
+a + b
+a * b
+```
+
+I'm from Vung Tau city, a peninsula in the south of Viet Nam.
+
+```{r}
+#| column: screen
+
+library(leaflet)
+leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  setView(lng = 107.08, lat = 10.36, zoom = 12.4) 
+```

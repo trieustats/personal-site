@@ -4,18 +4,35 @@ project:
 
 website:
   title: "uttonio"
+  repo-url: https://github.com/uttonio/uttonio
+  repo-actions: [edit, issue]
   navbar:
+    background: "#FFFBF2"
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+    - icon: github
+      href: https://github.com/uttonio
+    - icon: twitter
+      href: https://twitter.com/
+    - icon: linkedin
+      href: https://linkedin.com/
+
+  page-footer:
+    left: "2022, Le Hai Trieu"
+
 
 format:
   html:
     theme:
-      - morph
+      - simplex
       - custom.scss
     css: styles.css
+    fontcolor: "#002642"
+    backgroundcolor: "#FFFBF2"
+    monobackgroundcolor: "#FAF0E3"
     toc: true
 
 
