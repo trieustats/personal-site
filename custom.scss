@@ -1,0 +1,7 @@
+/*-- scss:defaults --*/
+
+// import google fonts
+@import url('https://fonts.googleapis.com/css2?family=Petrona:ital,wght@0,100;0,400;1,200&display=swap');
+
+// use Atkinson Hyperlegible font if available
+$font-family-sans-serif: "Petrona", "Roboto" !default;
