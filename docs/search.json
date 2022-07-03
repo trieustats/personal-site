@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "My name is Trieu Le. I’m currently a master’s student at KU Leuven. I’m passionate about…\nRecently, I’ve been learning R…\n\na <- 1:4\nb <- 5:8\na + b\n\n[1]  6  8 10 12\n\na * b\n\n[1]  5 12 21 32\n\n\nI’m from Vung Tau city, a peninsula in the south of Viet Nam.\n\nlibrary(leaflet)\nleaflet() %>%\n  addTiles() %>%  # Add default OpenStreetMap map tiles\n  setView(lng = 107.08, lat = 10.36, zoom = 12.4)"
   },
   {
     "objectID": "index.html",
