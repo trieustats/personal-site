@@ -2,32 +2,31 @@
 title: "About"
 ---
 
-About me
-
 ::: column-margin
-![](images/profile.JPG)
+![](images/profile-photo.png)
 :::
 
-My name is Trieu Le.
-I'm currently a master's student at KU Leuven.
-I'm passionate about...
+My name is Lê Hải Triều (Trieu Le), and it means tidal waves~ 
 
-Recently, I've been learning R...
+When I was small, I was teased for having such a boyish name but little did I know that it was a very unique and rare name for a Vietnamese girl.
 
-```{r}
-a <- 1:4
-b <- 5:8
-a + b
-a * b
-```
+Here are a few facts about me:
 
-I'm from Vung Tau city, a peninsula in the south of Viet Nam.
+1. I'm currently a Master's student at KU Leuven. I major in International Business Economics and Management. 
+2. I love cats, a lot. I cannot help myself when they are around. They simply look so cute and I just want to touch their fur! 
+3. I was born in Vung Tau, a lovely beach city in Vietnam. It is romantic in a certain way, and the atmosphere is excellent for outdoor activities, which is perfect for an amateur runner like me.
 
-```{r}
+
+```{r, echo = FALSE}
 #| column: screen
-
 library(leaflet)
 leaflet() %>%
   addTiles() %>%  # Add default OpenStreetMap map tiles
-  setView(lng = 107.08, lat = 10.36, zoom = 12.4) 
+  setView(lng = 107.08, lat = 10.36, zoom = 12)
+
 ```
+4. Talking about sports, I have a black belt in Taekwondo, so don't mess with me :P
+5. I am musically intelligent. I often hum to a random song while doing house chores. I play a melody based solely on listening. I can easily accompany others when they sing. I have a music-oriented Youtube channel named "uttonio".
+6. I love white, beige and blue colors. I don't like wearing black shirts, even though I can wear all-black running clothes. 
+7. Food-wise, I am into Vietnamese food (Pho, com tam, banh cuon, bun bo Hue, bun thit nuong, banh mi), Japanese food (sashimi, sushi, takoyaki, onigiri), Korean food (fried chicken with sauce, kimbap, tokbokki, seaweed soup) and American food (egg and bacon bagel), Thai food (Tom Yum, Pad Thai).
+8. I don't like rain since it makes everything all wet.
