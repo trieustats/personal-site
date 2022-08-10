@@ -1,5 +1,11 @@
 ---
-title: "Hi~ I'm uttonio"
+fontsize: 118%
+title: "Hello world!"
 ---
+::: column-margin
+![](images/profile-photo.png)
+:::
 
+My name is Trieu Le (Lê Hải Triều) and I am a Master's student at KU Leuven. My major is International Business Economics and Management. 
 
+Having recently moved to Brussels, I am very excited to meet new people and immerse in the European culture.
