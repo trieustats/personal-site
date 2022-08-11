@@ -1,12 +1,12 @@
 ---
 title: "Hello world!"
-fontsize: 118%
+fontsize: 120%
 ---
 ::: column-margin
 ![](images/profile-photo.png)
 :::
 
-My name is Trieu (Cheerio) which means tidal waves~ 
+My name is Trieu and it means tidal waves~
 
 I am a Master's student at KU Leuven, majoring in International Business Economics and Management.
 

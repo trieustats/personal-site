@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Trieu Le"
-  repo-url: https://github.com/uttonio/uttonio
+  repo-url: https://trieustats.github.io/personal-site/
   repo-actions: [edit, issue]
   navbar:
     background: "#FFFBF2"
