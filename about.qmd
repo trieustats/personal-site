@@ -1,12 +1,3 @@
 ---
-title: "My CV"
+title: "About me"
 ---
-
-
-
-
-
-
-
-
-

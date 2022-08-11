@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "uttonio"
+  title: "Trieu Le"
   repo-url: https://github.com/uttonio/uttonio
   repo-actions: [edit, issue]
   navbar:
@@ -11,14 +11,15 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - cv.qmd
       - about.qmd
     right:
     - icon: github
-      href: https://github.com/uttonio
+      href: https://github.com/trieustats
     - icon: youtube
       href: https://www.youtube.com/channel/UC9trqLDRXPvDtWUf2pDJgHw
     - icon: linkedin
-      href: https://linkedin.com/
+      href: https://www.linkedin.com/in/trieulehai/
 
   page-footer:
     right: "2022, Le Hai Trieu"
