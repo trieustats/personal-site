@@ -4,13 +4,27 @@
     "href": "about.html",
     "title": "About me",
     "section": "",
-    "text": "Hello world!\nMy name is Trieu Le (Lê Hải Triều) and I am a Master’s student at KU Leuven. My major is International Business Economics and Management.\nHaving recently moved to Brussels, I am very excited to meet new people and immerse in the European culture."
+    "text": "I love cats, a lot. I cannot help myself when they are around. They simply look so cute and I just want to touch their fur!\nSport wise, I have a black belt in Taekwondo, so don’t mess with me :P Recently I just joined a half marathon.\nI frequently play the piano. You can check out my humble Youtube channel on the top right corner. I don’t upload a lot of videos by the way. The most recent piece I play is “Story of you” of Alexis Ffrench - a very beautiful and peaceful piece."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hello world!",
+    "title": "\n\nHello world!\n\n",
     "section": "",
     "text": "My name is Trieu and it means tidal waves~\nI am a Master’s student at KU Leuven, majoring in International Business Economics and Management.\nHaving recently moved to Brussels, I am very excited to meet new people and immerse in the European culture."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "My CV",
+    "section": "",
+    "text": "CV"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work experience",
+    "section": "",
+    "text": "My CV"
   }
 ]

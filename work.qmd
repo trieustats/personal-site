@@ -1,0 +1,14 @@
+---
+title: "Work experience"
+---
+
+My goal is to get exposed to as many technical and business roles as possible.
+
+<a href="cv.pdf" class="btn btn-info" role="button">My CV </a>
+
+
+
+
+
+
+

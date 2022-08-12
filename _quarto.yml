@@ -4,22 +4,24 @@ project:
 
 website:
   title: "Trieu Le"
-  repo-url: https://trieustats.github.io/personal-site/
   repo-actions: [edit, issue]
   navbar:
     background: "#FFFBF2"
     left:
       - href: index.qmd
         text: Home
-      - cv.qmd
-      - about.qmd
+      - href: work.qmd
+        text: Work experience
+      - href: about.qmd
+        text: About me
+
     right:
     - icon: github
       href: https://github.com/trieustats
-    - icon: youtube
-      href: https://www.youtube.com/channel/UC9trqLDRXPvDtWUf2pDJgHw
     - icon: linkedin
       href: https://www.linkedin.com/in/trieulehai/
+    - icon: youtube
+      href: https://www.youtube.com/channel/UC9trqLDRXPvDtWUf2pDJgHw
 
   page-footer:
     right: "2022, Le Hai Trieu"
@@ -36,5 +38,6 @@ format:
     monobackgroundcolor: "#FAF0E3"
     toc: true
 
+editor: visual
 
 

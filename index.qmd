@@ -1,10 +1,8 @@
 ---
-title: "Hello world!"
+title: <center><hr> Hello world! <hr></center>
 fontsize: 120%
 ---
-::: column-margin
-![](images/profile-photo.png)
-:::
+<img src="images/profile-photo.png" alt="Trieu" width="249" height="230" style="float:left;margin:3px 20px"/> 
 
 My name is Trieu and it means tidal waves~
 
