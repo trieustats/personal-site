@@ -1,11 +1,10 @@
 ---
 title: <center><hr> Hello world! <hr></center>
-fontsize: 120%
+fontsize: 110%
 ---
-<img src="images/profile-photo.png" alt="Trieu" width="249" height="230" style="float:left;margin:3px 20px"/> 
 
-My name is Trieu and it means tidal waves~
+<img src="images/profile-photo.png" alt="Trieu" width="249" height="230" style="float:left;margin:3px 20px"/>
 
-I am a Master's student at KU Leuven, majoring in International Business Economics and Management.
+I was born in a beach city named Vũng Tàu in Vietnam. Somehow my name is Triều and it means tidal waves\~
 
-Having recently moved to Brussels, I am very excited to meet new people and immerse in the European culture. 
+I am a Master's student at KU Leuven, majoring in International Business Economics and Management\~
