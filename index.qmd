@@ -5,6 +5,6 @@ fontsize: 110%
 
 <img src="images/profile-photo.png" alt="Trieu" width="249" height="230" style="float:left;margin:3px 20px"/>
 
-I was born in a beach city named Vũng Tàu in Vietnam. Somehow my name is Triều and it means tidal waves\~
+I was born in a beach city named Vũng Tàu in Vietnam. Somehow my name is Triều and it means tidal waves\~.
 
-I am a Master's student at KU Leuven, majoring in International Business Economics and Management\~
+I am a Master's student at KU Leuven, majoring in International Business Economics and Management.
