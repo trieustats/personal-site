@@ -1,7 +1,7 @@
 ---
-title: "Work experience"
+title: "Blog"
 ---
 
-My goal is to get exposed to as many technical and business roles as possible.
-
-<a href="2023-12-21_resume.pdf" class="btn btn-info" role="button">My resume </a>
+I use \*\*SelfControl application\*\* to block my access to distracting websites such as Instagram, Tiktok and Facebook. The application is free, open-source and is really useful. \
+\
+Even if you restart your computer or delete the application, access to those sites will remain restricted until the designated time expires.
