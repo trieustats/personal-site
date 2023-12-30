@@ -4,13 +4,13 @@ fontsize: 110%
 ---
 <img src="images/profile-photo.png" alt="Trieu" width="249" height="230" style="float:middle;margin:3px 250px"/> 
 
-I entered this world in Vũng Tàu, a beautiful beach city in Vietnam. 
+I entered this world in Vũng Tàu - a beautiful beach city in Vietnam. 
 
 My name, Hải Triều, means "tidal waves"~
 
 I am pursuing a Master's in International Business Economics and Management at KU Leuven, being a world away from the tranquil shores of my homeland. 
 
-Yet, amidst the scholarly pursuits, nostalgia often sweeps over me like a tidal wave, carrying echoes of home - the vibrant chaos of the Vietnamese streets, the aroma of phở gầu wafting through the air and the laughter of family gatherings over the starlit sky.
+Yet, amidst the scholarly pursuits, nostalgia often sweeps over me like a tidal wave, carrying echoes of home - the vibrant chaos of the Vietnamese streets, the aroma of phở gầu wafting through the air and the laughter of family gatherings under the starlit sky.
 
 Those memories, woven into the fabric of my being, remind me of the rich tapestry of my origins and fuel my determination to blend the wisdom of the East with the knowledge of the West.
 
