@@ -2,6 +2,6 @@
 title: "Blog"
 ---
 
-I use \*\*SelfControl application\*\* to block my access to distracting websites such as Instagram, Tiktok and Facebook. The application is free, open-source and is really useful. \
+I use \*\*SelfControl application\*\* to block my access to distracting websites such as Instagram, Tiktok and Facebook. The application is free, open-source and is really useful.\
 \
 Even if you restart your computer or delete the application, access to those sites will remain restricted until the designated time expires.
