@@ -1,6 +1,5 @@
 ---
-title: Ocean-born, charting global business waters~
-
+title: Ocean-born, charting global waters~
 fontsize: 110%
 ---
 <img src="images/profile-photo.png" alt="Trieu" width="249" height="230" style="float:middle;margin:3px 250px"/> 
