@@ -2,8 +2,7 @@
 title: "About me"
 ---
 
-1.  I only believe in information that is backed by concrete research evidence and sound journalism.
-
+1.  I only believe in information that is backed by concrete research evidence and sound journalism.\
     If someone tells me about a fact, I will check Google Scholar/Research Gate for a credible research paper, then check the references of that research paper until I read the original research.
 
 2.  After living in the heart of Europe for more than 1 year, I have become very mindful of my consumption habits as they impact the environment, and I am now a minimalist.
