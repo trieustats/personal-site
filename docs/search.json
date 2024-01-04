@@ -32,6 +32,6 @@
     "href": "blog.html",
     "title": "How I stay more productive",
     "section": "",
-    "text": "I use SelfControl application to block my access to distracting websites such as Instagram, Tiktok and Facebook. The application is free and open-source. Even if I restart the computer or delete the application, access to those sites will remain restricted until the designated time expires.\nI use Bitwarden to store my passwords and generate random passwords for random websites."
+    "text": "I use SelfControl application to block my access to distracting websites (Instagram, Tiktok, Facebook, etc.). The application is free and open-source. I highly recommend it! Even if you restart the computer or delete the application, access to those sites will remain restricted until the designated time expires.\nI use Bitwarden to store my passwords and generate random passwords for random websites."
   }
 ]
