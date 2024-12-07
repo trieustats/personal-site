@@ -4,7 +4,7 @@ fontsize: 110%
 
 <img src="images/profile-photo.png" alt="Trieu" width="249" height="230" style="float:left;margin:3px 20px"/>
 
-Hi! This is Triều. Thanks for stopping by! I am doing a Master's in International Business Economics and Management at KU Leuven, Belgium.
+Thanks for stopping by! I am very glad that you visit my website. 
 
 Three values that I am known for: detail-oriented, honest and ethical.
 
